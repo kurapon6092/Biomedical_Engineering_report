@@ -1,0 +1,33 @@
+# LaTeX関連の一時ファイル
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+
+# 出力ディレクトリ
+out/
+
+# macOS関連
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# エディタ関連
+*.swp
+*.swo
+*~
+.vscode/
+.idea/ 
